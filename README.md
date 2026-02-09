@@ -1,5 +1,3 @@
-Here’s a **professional, polished `README.md`** for your **Smart_Grid_Stability_Prediction** GitHub repository based on its contents and typical structure for a machine learning project.
-
 ---
 
 # Smart Grid Stability Prediction
